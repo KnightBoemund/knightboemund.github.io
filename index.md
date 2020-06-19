@@ -7,3 +7,7 @@ Batman's secret identity is Bruce Wayne, a wealthy American playboy, philanthrop
 * physical prowess
 * deductive abilities and obsession
 
+Batman said:
+
+> I am Batman!
+
