@@ -11,3 +11,5 @@ Batman said:
 
 > I am Batman!
 
+<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Batman_%28circa_2016%29.png">
+
